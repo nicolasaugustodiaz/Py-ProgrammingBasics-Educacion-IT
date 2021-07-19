@@ -1,0 +1,3 @@
+Crear, abrir leer y editar archivos .txt - open(), read(), write(), readline().
+Place Holders, .format() y Unpacking.
+Laboratorio 'Obtener Múltiplos y Laboratorio 'Sucesión de Fibonacci.'

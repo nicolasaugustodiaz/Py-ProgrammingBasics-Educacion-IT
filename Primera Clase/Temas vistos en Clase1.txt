@@ -1,0 +1,2 @@
+Repaso general, colecciones.
+Laboratorio 'Bucle While' y Laboratorio 'Sumatoria'
